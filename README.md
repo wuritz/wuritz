@@ -1,1 +1,1 @@
-![Profile Views](https://komarev.com/ghpvc/?username=wuritz)
+![Profile Views](https://komarev.com/ghpvc/?username=wuritz&color=red&style=for-the-badge)
